@@ -8,6 +8,10 @@ void Main()
 int RazmerMassiva = Razmer("Введиье размер массива: ");
 string[] SamMassiv = ZapolnenieSamMassiv(RazmerMassiva);
 PrintMassiv(SamMassiv);
+int NachaloDiapazonaVivoda = 0;
+int KonecDiapazonaVivoda = RazmerMassiva - 1;
+int KolvoElementovVivoda = 3;
+PrintBeforeThreeElementMassiv(SamMassiv, NachaloDiapazonaVivoda, KonecDiapazonaVivoda, KolvoElementovVivoda);
 }
 
 int Razmer(string msg)
@@ -32,5 +36,17 @@ void PrintMassiv(string[] a)
     Console.WriteLine("[" + string.Join(",", a) + "]");
 }
 
+void PrintBeforeThreeElementMassiv(string[] a, int ot, int doo, int count)
+{
+    
+    Random Element = new Random();
+    string[] randomElements = new string[count];
+    for(int i = 0; i < count; i++)
+    {
+        int randomIndex = Element.Next(ot, doo);
+        randomElements[i] = "\"" + a[randomIndex] + "\"";
+    }
+    Console.Write("[" + string.Join(",", randomElements) + "]");
+}
 
 Main();
