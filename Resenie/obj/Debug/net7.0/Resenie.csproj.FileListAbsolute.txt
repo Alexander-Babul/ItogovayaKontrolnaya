@@ -1,0 +1,14 @@
+C:\Users\100nout\Desktop\ItogovayaKontrolnaya\Resenie\bin\Debug\net7.0\Resenie.exe
+C:\Users\100nout\Desktop\ItogovayaKontrolnaya\Resenie\bin\Debug\net7.0\Resenie.deps.json
+C:\Users\100nout\Desktop\ItogovayaKontrolnaya\Resenie\bin\Debug\net7.0\Resenie.runtimeconfig.json
+C:\Users\100nout\Desktop\ItogovayaKontrolnaya\Resenie\bin\Debug\net7.0\Resenie.dll
+C:\Users\100nout\Desktop\ItogovayaKontrolnaya\Resenie\bin\Debug\net7.0\Resenie.pdb
+C:\Users\100nout\Desktop\ItogovayaKontrolnaya\Resenie\obj\Debug\net7.0\Resenie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\100nout\Desktop\ItogovayaKontrolnaya\Resenie\obj\Debug\net7.0\Resenie.AssemblyInfoInputs.cache
+C:\Users\100nout\Desktop\ItogovayaKontrolnaya\Resenie\obj\Debug\net7.0\Resenie.AssemblyInfo.cs
+C:\Users\100nout\Desktop\ItogovayaKontrolnaya\Resenie\obj\Debug\net7.0\Resenie.csproj.CoreCompileInputs.cache
+C:\Users\100nout\Desktop\ItogovayaKontrolnaya\Resenie\obj\Debug\net7.0\Resenie.dll
+C:\Users\100nout\Desktop\ItogovayaKontrolnaya\Resenie\obj\Debug\net7.0\refint\Resenie.dll
+C:\Users\100nout\Desktop\ItogovayaKontrolnaya\Resenie\obj\Debug\net7.0\Resenie.pdb
+C:\Users\100nout\Desktop\ItogovayaKontrolnaya\Resenie\obj\Debug\net7.0\Resenie.genruntimeconfig.cache
+C:\Users\100nout\Desktop\ItogovayaKontrolnaya\Resenie\obj\Debug\net7.0\ref\Resenie.dll

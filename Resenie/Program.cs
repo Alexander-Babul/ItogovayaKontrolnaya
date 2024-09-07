@@ -16,4 +16,21 @@ int Razmer(string msg)
     return Convert.ToInt32(Console.ReadLine());
 }
 
+string[] ZapolnenieSamMassiv(int VvedenniRazmer)
+{
+    string[] massiv = new string[VvedenniRazmer];
+    for(int i = 0; i < massiv.Length; i++)
+    {
+        Console.Write($"Введите строку {i + 1}: ");
+        massiv[i] = Console.ReadLine();
+    }
+    return massiv;
+}
+
+void PrintMassiv(string[] a)
+{
+    Console.WriteLine("[" + string.Join(",", a) + "]");
+}
+
+
 Main();
