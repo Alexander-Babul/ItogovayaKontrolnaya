@@ -10,4 +10,10 @@ string[] SamMassiv = ZapolnenieSamMassiv(RazmerMassiva);
 PrintMassiv(SamMassiv);
 }
 
+int Razmer(string msg)
+{
+    Console.Write(msg);
+    return Convert.ToInt32(Console.ReadLine());
+}
+
 Main();
